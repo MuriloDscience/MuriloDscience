@@ -1,8 +1,8 @@
 ## Oi sou Murilo 👋
 
-- 🔭 Hoje trabalho com ciência de dados
+- 🔭 Hoje tenho formação técnica em ciência de dados e estou fazendo uma Graduação na área.
 - 🌱 Estudando Python, SQL, Pandas
-- 👯 Projetos Reais
+- Projetos Reais
 
 
 <div>
